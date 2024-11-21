@@ -64,5 +64,4 @@ echo "Logs saved to ${LOG_FILE}"```
 
 ---
 ###postgres
-![image](https://github.com/user-attachments/assets/dacf15d9-fef3-4374-a756-3df900a48dcb)
-
+![00-postgres](https://github.com/user-attachments/assets/48487fd3-07a6-4efb-8965-070ae59bff40)
