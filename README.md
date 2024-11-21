@@ -62,6 +62,3 @@ sudo cp duckdb_fdw*.sql /usr/share/postgresql/${POSTGRES_VERSION}/extension/
 echo "duckdb_fdw installation is complete: $(date)"
 echo "Logs saved to ${LOG_FILE}"```
 
----
-###postgres
-![00-postgres](https://github.com/user-attachments/assets/48487fd3-07a6-4efb-8965-070ae59bff40)
